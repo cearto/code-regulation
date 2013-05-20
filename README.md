@@ -1,4 +1,8 @@
-code-regulation
-===============
+Website for Group Project CS181
+<h1> CODE AND REGULATION </h1>
 
-Code and the regulation of the Internet webpage.
+@authors:
+Page Ive
+Amber Rockwood
+Bharad Raghavan
+Cesar Torres
