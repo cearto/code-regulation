@@ -3,13 +3,48 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
-	font-size: 0.7em;
+	font-size: 0.85em;
 	color: #8a8683;
 	background-color:#ffffff;
 }
 img {
 	max-width: 100%;
 }
+#scenarios{
+	list-style: none;
+}
+#scenarios img{
+	background-image:url('../images/cubes_@2X.png');
+	width: 100%;
+	margin: 0 auto;
+	display: inline-block;
+	height: 100px;
+	margin-bottom: 4px;
+}
+#scenarios li{
+	width: 200px;
+	display: block;
+	width: 46%; 
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 8px;
+}
+#scenarios span{
+	width: 100%;
+}
+#scenarios a{
+	font-size: 1.0em;
+	color: #333;
+	padding-bottom:20px;
+	font-weight: 400;
+	width: 100%;
+}
+#scenarios  a:hover{
+	color: #bde2df;
+	cursor: pointer;
+}
+
+
 a:link {
 	color: #f68f67;
 	text-decoration: none;
@@ -108,7 +143,7 @@ a:visited {
 #slide2{
 	background-image:url('http://subtlepatterns.com/patterns/cubes_@2X.png');
 	background-color:#f68f67;
-	color:#ffffff;
+	color: #333;
 }
 #slide2 h1 {
 	font-size: 3.8em;
@@ -121,7 +156,7 @@ a:visited {
 	font-size: 2em;
 	color: #666;
 	line-height: 120%;
-	padding-bottom:20px;
+	padding:20px 0;
 	font-weight: 400;
 }
 
@@ -144,7 +179,7 @@ a:visited {
 	font-size: 2em;
 	color: #8a8683;
 	line-height: 0px;
-	padding-bottom:20px;
+	padding: 20px 0;
 	font-weight: 400;
 }
 #test{
@@ -179,26 +214,7 @@ a:visited {
 	padding-bottom:20px;
 	font-weight: 400;
 }
-#slide4 ul li div img{
-	background-image:url('../images/cubes_@2X.png');
-	width: 100%;
-	min-height: 100px;
-}
-#slide4 ul li{
-	width: 200px;
-	display: inline-block;
-	margin-right: 10px;
-}
-#slide4 ul li div{
-	font-size: 1.5em;
-	color: #ffffff;
-	padding-bottom:20px;
-	font-weight: 400;
-}
-#slide4 ul li div:hover{
-	color: #bde2df;
-	cursor: pointer;
-}
+
 
 
 
