@@ -46,7 +46,7 @@ img {
 
 
 a:link {
-	color: #f68f67;
+	color: #00A8E1;
 	text-decoration: none;
 }
 a:hover {
@@ -141,7 +141,7 @@ a:visited {
 /* Slide 2 */ 
 
 #slide2{
-	background-image:url('http://subtlepatterns.com/patterns/cubes_@2X.png');
+	background-image:url('http://stanford.edu/~ctorres7/code-regulation/website/images/cubes_@2X.png');
 	background-color:#f68f67;
 	color: #333;
 }
